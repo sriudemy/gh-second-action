@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest run",
-    "lint": "eslint --ext .jsx --fix src",
+    "lint": "eslint --ext .jsx --fix src"
   },
   "dependencies": {
     "react": "^18.2.0",
